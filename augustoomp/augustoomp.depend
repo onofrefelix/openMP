@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604931629 source:d:\cloud\onedrive\cluster\openmp\atvidades\ex2\pi_paralle_v1\pi_parallelv2\augustoomp\main.cpp
+	<iostream>
+	<unistd.h>
+	<chrono>
+	<omp.h>
+
